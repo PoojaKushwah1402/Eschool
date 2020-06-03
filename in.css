@@ -1,0 +1,45 @@
+.clmn {
+    margin: 20%;
+    text-align: center;
+    background-color: rgb(46, 44, 44);
+    color: aliceblue;
+    height: 80%;
+    width: 80%;
+    font-size: 20px;
+    padding-top: 10%;
+    text-decoration: none;
+}
+
+.main {
+    background-color: rgb(199, 182, 226);
+    padding: 5%;
+    color: dimgray;
+}
+
+.back{
+    background-color: rgb(187, 149, 247);
+    padding: 15%;
+    color: rgb(82, 79, 79);  
+}
+.back1{
+    background-color: rgb(187, 149, 247);
+    padding: 5%;
+    color: rgb(82, 79, 79);  
+}
+
+
+.display {
+    padding-top: 21%;
+    padding-bottom: 21%;
+    padding-left: 0;
+}
+
+.bttn {
+    margin: 5%;
+    width: 10%;
+}
+
+.formClass {
+    margin: 5%;
+}
+
